@@ -1,0 +1,1 @@
+This folder contains all the DINOV3_ViT_Weights downloaded from Meta AI
